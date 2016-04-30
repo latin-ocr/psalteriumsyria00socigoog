@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./psalteriumsyria00socigoog_0197.png"; bbox 0 0 2792 4208; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 427 661 2439 985">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 427 680 2429 985">
+     <span class='ocr_line' id='line_1_1' title="bbox 427 794 2325 985; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 767 825 2325 985; x_wconf 47' lang='lat' dir='ltr'><strong>mamm-mustaozaw-fiaem.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 427 794 682 887; x_wconf 55' lang='grc' dir='ltr'><strong>ἓ...</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 471 661 2439 789; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 1960 664 2439 785; x_wconf 49' lang='lat' dir='ltr'><strong>manain-un.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1758 694 1893 783; x_wconf 61' lang='grc' dir='ltr'><strong>..ιη</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1377 661 1683 785; x_wconf 52' lang='lat' dir='ltr'><strong>AemmA.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1001 662 1298 789; x_wconf 67' lang='lat' dir='ltr'><strong>2qu—</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 761 691 938 786; x_wconf 58' lang='lat' dir='ltr'><strong>cv...</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 471 705 618 750; x_wconf 73' lang='lat' dir='ltr'><strong>nu..</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 471 367 2099 491">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 471 367 2099 491">
+     <span class='ocr_line' id='line_1_3' title="bbox 471 367 2099 491; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 1900 369 2099 483; x_wconf 63' lang='grc' dir='ltr'><strong>η...</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1522 367 1863 491; x_wconf 52' lang='grc' dir='ltr'><strong>ἃᾶ...</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1249 407 1481 467; x_wconf 73' lang='grc' dir='ltr'><strong>..ἓ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1067 389 1201 465; x_wconf 62' lang='grc' dir='ltr'><strong>,ε</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 471 388 632 473; x_wconf 71' lang='grc' dir='ltr'><strong>..Ξ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
